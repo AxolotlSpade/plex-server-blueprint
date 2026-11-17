@@ -1,0 +1,9 @@
+{
+  "product": "Plex Server Blueprint",
+  "version": "1.6.0",
+  "channel": "stable",
+  "updated": "2026-11-17",
+  "mirror_region": "global",
+  "auto_update": true,
+  "telemetry": false
+}
